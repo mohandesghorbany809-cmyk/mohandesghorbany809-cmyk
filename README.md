@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <img width="1080" height="450" alt="gsss" src="https://github.com/user-attachments/assets/32410df3-4d33-419f-9ba5-9908f31335be" />
 <img width="1280" height="468" alt="photo_2026-09-30_23-58-59 (3)" src="https://github.com/user-attachments/assets/dcb99bc8-f465-4b72-a3c5-c8bb63137be9" />
-<img width="1080" height="712" alt="photo_2026-09-30_23-58-58" src="https://github.com/user-
-  attachments/assets/d2f13219-a7da-464f-a54a-f75d534daad6" />
+
 
   👋 Hey! Welcome to my little corner of GitHub!
 
