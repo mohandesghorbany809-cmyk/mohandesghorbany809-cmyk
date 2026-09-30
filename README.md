@@ -1,3 +1,4 @@
+<img width="1110" height="1080" alt="photo_2026-09-30_23-58-58 (3)" src="https://github.com/user-attachments/assets/9db48b67-4b00-4b20-b6da-3e359f626cad" />
 ## Hi there 👋
 
 <!--
