@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img width="1280" height="468" alt="photo_2026-09-30_23-58-59 (3)" src="https://github.com/user-attachments/assets/dcb99bc8-f465-4b72-a3c5-c8bb63137be9" />
 
 
-  👋 Hey! Welcome to my little corner of GitHub!
+  ## 👋 Hey! Welcome to my little corner of GitHub!
 
 Oh, you found my profile! 👀
 Well... since you're already here, you might as well stay for a while. 😄
